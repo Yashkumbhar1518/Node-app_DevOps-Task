@@ -1,4 +1,4 @@
-name: CI - Build the app and push to Docker Hub
+name: CI - Build the node app and push to Docker Hub
 
 on:
   push:
